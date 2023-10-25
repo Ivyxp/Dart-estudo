@@ -8,7 +8,7 @@ Repositório criado com o intuito de estudar e praticar a linguagem Dart
   
 - (1) Introducao a linguagem dart, aprendendo conceitos basicos **(OK)**
   - Primeiro hello world!
-    
+  - Variaveis e tipagem de dados
 
 
 
