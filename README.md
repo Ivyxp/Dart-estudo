@@ -11,7 +11,8 @@ Repositório criado com o intuito de estudar e praticar a linguagem Dart
   - Variaveis e tipagem de dados
   - Classes
   - List e Maps
-
+  - Switch
+    
 
 
 </details>
