@@ -1,0 +1,25 @@
+void main(){
+
+String status = 'ANDAMENTO';
+
+//trabalhando com switch
+
+switch(status){
+  case 'ABERTO':
+   print('seu pediso esta em aberto');
+   break;
+  case 'FECHADO':
+    print('seu pedido esta fechado');
+    break;
+  case 'PENDENTE':
+    print('seu pedido esta pendente');
+    break;
+  case 'ENCERRADO':
+    print('seu pedido esta encerrado');
+    break;
+  default:
+    print('status indefinido');
+}
+
+
+}
