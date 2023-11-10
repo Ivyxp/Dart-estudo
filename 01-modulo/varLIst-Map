@@ -1,0 +1,40 @@
+void main(){
+
+//Declarando uma List
+
+List listaProdutos = [
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 'macarrao', true, 1.50
+];
+
+//Printando a lista
+print(listaProdutos);
+  
+//Como acessar um dado especifico em uma lista
+  
+print(listaProdutos[10]);
+
+
+//Declarando um Map
+
+Map usuarios = {
+'nome': 'Livia',
+'idade': 22,
+'time': 'Corinthias',
+ 11: 'onze'
+
+};
+
+print(usuarios);
+  
+//Para saber quantos dados existem no Map
+print(usuarios.length);
+  
+//Como acessar um dado especifico em um Map
+  
+print(usuarios['idade']);
+
+print(usuarios[11]);
+
+
+}
+
